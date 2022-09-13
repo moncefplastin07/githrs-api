@@ -1,6 +1,6 @@
 {
     "imports": {
       "http/": "https://deno.land/std@0.155.0/http/",
-      "deno-dom": "https://deno.land/x/deno_dom@v0.1.34-alpha/deno-dom-wasm.ts"
+      "deno-dom": "https://deno.land/x/deno_dom@v0.1.12-alpha/deno-dom-wasm.ts"
     }
   }
